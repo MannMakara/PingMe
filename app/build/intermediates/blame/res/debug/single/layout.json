@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\layout\\activity_result.xml"
+    }
+]

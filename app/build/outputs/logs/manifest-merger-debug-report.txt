@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:17:1-51:12
+	package
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:18:5-41
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:23.1.1] D:\PingMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:24:9-38
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:23:9-34
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PingMe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:25:22-63
+application
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:27:5-50:19
+MERGED from [com.android.support:support-v4:23.1.1] D:\PingMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:28:9-45
+	android:description
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:30:9-54
+activity#com.example.android.pingme.MainActivity
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:34:13-42
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:37:27-74
+service#com.example.android.pingme.PingService
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:40:9-43:19
+	android:enabled
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:42:46-68
+	android:label
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:41:13-39
+activity#com.example.android.pingme.ResultActivity
+ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:44:9-49:48
+	android:label
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:46:13-40
+	android:excludeFromRecents
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:47:13-44
+	android:taskAffinity
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from D:\PingMe\app\src\main\AndroidManifest.xml:45:13-42

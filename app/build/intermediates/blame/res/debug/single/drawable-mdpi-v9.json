@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9\\ic_stat_ic_stat_snooze.png",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_ic_stat_snooze.png"
+    },
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9\\ic_stat_snooze.png",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_snooze.png"
+    },
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9\\ic_stat_dismiss.png",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_dismiss.png"
+    },
+    {
+        "merged": "D:\\PingMe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v9\\ic_stat_notification.png",
+        "source": "D:\\PingMe\\app\\src\\main\\res\\drawable-mdpi-v9\\ic_stat_notification.png"
+    }
+]
